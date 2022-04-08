@@ -99,3 +99,4 @@ This section contains helpful links to related content. It isn’t required, so 
 
 * [VSCode docs](https://code.visualstudio.com/docs) are a great place to refer to for any of your queries related to VSCode.
 * These handy little PDFs on VSCode's [shortcuts for linux](https://go.microsoft.com/fwlink/?linkid=832144) and [shortcuts for macOS](https://go.microsoft.com/fwlink/?linkid=832143) are a great resource to help make your VSCode experience smoother and more efficient.
+* [Vim](https://www.vim.org/): A lightweight, open source, terminal based text editor
